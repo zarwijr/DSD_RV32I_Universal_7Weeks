@@ -1,0 +1,9 @@
+# DSD RV32I Labs — Cyclone V project baseline
+set_global_assignment -name FAMILY "Cyclone V"
+set_global_assignment -name DEVICE 5CSXFC6D6F31C6
+set_global_assignment -name TOP_LEVEL_ENTITY rv32i_fpga_top
+set_global_assignment -name VERILOG_INPUT_VERSION VERILOG_2001
+set_global_assignment -name SDC_FILE constraints/rv32i_labs.sdc
+
+# Add board-specific pin assignments only after confirming the exact board manual.
+# Do not reuse DE2-115/Cyclone IV assignments for this device.

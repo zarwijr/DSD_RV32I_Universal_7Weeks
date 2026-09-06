@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Viết bộ FSM RV32I mới vì code đã gửi là pipeline, không phải multi-cycle; giữ naming PC/RF/ALU/memory nhất quán.

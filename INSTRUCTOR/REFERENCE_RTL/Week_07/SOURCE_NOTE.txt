@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Tái sử dụng Hazard_Unit.v/Pipelined_RISCV.v; sửa ưu tiên M trước W, RdE!=0, UseRs1D/UseRs2D, store-data forwarding và top tích hợp.

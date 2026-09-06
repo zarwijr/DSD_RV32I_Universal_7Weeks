@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Tái sử dụng Data_Memory.v và adder target riêng; thêm range guard, full baseline core và tách BranchTakenE/PCSrcE rõ ràng.

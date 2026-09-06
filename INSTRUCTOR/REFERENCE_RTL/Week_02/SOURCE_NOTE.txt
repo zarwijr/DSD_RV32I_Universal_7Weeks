@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Tái sử dụng Program Counter, Register File, Extend và ALU từ hai bộ code đã gửi; sửa chặn ghi x0 và signed SLT.

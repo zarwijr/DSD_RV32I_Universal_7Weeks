@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Tái sử dụng reg_if_id/reg_ex_mem và PC branch adder của code đã gửi; đổi pipeline register về posedge, bubble thành NOP và bổ sung top no-hazard.

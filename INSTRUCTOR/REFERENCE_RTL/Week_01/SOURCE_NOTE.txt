@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Viết mới theo contract Week 01; dùng Verilog-2001 thay cho SystemVerilog.

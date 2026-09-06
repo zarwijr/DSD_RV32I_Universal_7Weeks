@@ -1,0 +1,2 @@
+Reference language: Verilog-2001
+Tái sử dụng cách decode của Control_Unit.v; thêm default an toàn và chỉ bật RegWrite cho funct3 được hỗ trợ.
